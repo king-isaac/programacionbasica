@@ -1,0 +1,18 @@
+video 21
+División, módulo y residuo en JavaScript
+Cuando te presentas a un trabajo de programador tal vez debas resolver un problema llamado fizzbuzz, este busca conocer tus conocimientos, veamos cómo resolverlos
+ 
+
+Primero debes conocer cómo calcular el residuo de una división, ahora puedes llevar esto a código
+ 
+
+Recuerda:
+ 
+
+Para calcular el módulo puedes usar %
+ 
+Los programas dividen los programas complejos en problemas pequeños
+ 
+La operación lógica and (y) se escribe en JavaScript con &&
+
+
