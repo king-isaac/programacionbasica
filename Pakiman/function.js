@@ -39,6 +39,8 @@ coleccion.push(new Pakiman("poshomon", 80, 50));
 coleccion.push(new Pakiman("celdomon", 120, 40));
 
 //ojo con esto, es muy epecifico por cada objeto del array -in -of
+//in es para indices
+//of me muestra la instancia
 for (var valor of coleccion)
 {
 	valor.mostrar();
