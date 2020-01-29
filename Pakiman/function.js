@@ -32,14 +32,11 @@ class Pakiman
 	}
 }
 
+var vaka = new Pakiman("vakamon", 100, 30);
+var posho = new Pakiman("poshomon", 80, 50);
+var celdo = new Pakiman("celdomon", 120, 40);
+console.log(vaka, posho, celdo);
 
-var coleccion = [];
-coleccion.push(new Pakiman("vakamon", 100, 30));
-coleccion.push(new Pakiman("poshomon", 80, 50));
-coleccion.push(new Pakiman("celdomon", 120, 40));
-
-//ojo con esto, es muy epecifico por cada objeto del array -in -of
-for (var valor of coleccion)
-{
-	valor.mostrar();
-}
+vaka.mostrar();
+posho.mostrar();
+celdo.mostrar();
