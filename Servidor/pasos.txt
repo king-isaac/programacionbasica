@@ -1,0 +1,4 @@
+instalar node.js
+ir a la carpeta con node.js en la terminal
+instalar:
+npm i express
